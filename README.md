@@ -1,1 +1,1 @@
-# Challenge-Data-cleaning-and-calidation
+# Challenge-Data-cleaning-and-validation
